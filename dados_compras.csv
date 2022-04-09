@@ -1,0 +1,781 @@
+,Login,Idade,Sexo,Item ID,Nome do Item,Valor
+0,Aelalis34,38,Masculino,165,Bone Crushing Silver Skewer,3.37
+1,Eolo46,21,Masculino,119,"Stormbringer, Dark Blade of Ending Misery",2.32
+2,Assastnya25,34,Masculino,174,Primitive Blade,2.46
+3,Pheusrical25,21,Masculino,92,Final Critic,1.36
+4,Aela59,23,Masculino,63,Stormfury Mace,1.27
+5,Tanimnya91,20,Masculino,10,Sleepwalker,1.73
+6,Undjaskla97,20,Masculino,153,Mercenary Sabre,4.57
+7,Iathenudil29,29,Feminino,169,"Interrogator, Blood Blade of the Queen",3.32
+8,Sondenasta63,25,Masculino,118,"Ghost Reaver, Longsword of Magic",2.77
+9,Hilaerin92,31,Masculino,99,"Expiration, Warscythe Of Lost Worlds",4.53
+10,Chamosia29,24,Masculino,57,"Despair, Favor of Due Diligence",3.81
+11,Sally64,20,Masculino,47,"Alpha, Reach of Ending Hope",1.55
+12,Iskossa88,30,Masculino,81,Dreamkiss,4.06
+13,Seorithstilis90,23,Masculino,76,"Piety, Guardian of Riddles",3.68
+14,Sundast29,40,Masculino,44,Bonecarvin Battle Axe,2.46
+15,Haellysu29,21,Masculino,96,Blood-Forged Skeletal Spine,4.77
+16,Sundista85,22,Feminino,123,Twilight's Carver,1.14
+17,Aenarap34,22,Feminino,59,"Lightning, Etcher of the King",1.65
+18,Iskista88,28,Masculino,91,Celeste,3.71
+19,Assossa43,31,Masculino,177,"Winterthorn, Defender of Shifting Worlds",4.89
+20,Irith83,24,Masculino,78,"Glimmer, Ender of the Moon",2.33
+21,Iaralrgue74,15,Masculino,3,Phantomlight,1.79
+22,Deural48,11,Feminino,11,Brimstone,2.52
+23,Chanosia65,19,Masculino,183,Dragon's Greatsword,2.36
+24,Qarwen67,11,Masculino,65,Conqueror Adamantite Mace,1.96
+25,Idai61,21,Masculino,63,Stormfury Mace,1.27
+26,Aerithllora36,29,Masculino,132,Persuasion,3.9
+27,Assastnya25,34,Masculino,106,Crying Steel Sickle,2.29
+28,Ilariarin45,15,Masculino,49,"The Oculus, Token of Lost Worlds",4.23
+29,Phaedai25,16,Feminino,45,Glinting Glass Edge,2.46
+30,Eulaeria40,21,Feminino,155,War-Forged Gold Deflector,3.73
+31,Iarilis73,18,Masculino,37,"Shadow Strike, Glory of Ending Hope",1.93
+32,Malunil62,19,Masculino,48,"Rage, Legacy of the Lone Victor",4.32
+33,Iskimnya76,24,Masculino,90,Betrayer,1.67
+34,Yararmol43,22,Masculino,47,"Alpha, Reach of Ending Hope",1.55
+35,Aisur51,21,Feminino,13,Serenity,1.49
+36,Undare39,20,Masculino,44,Bonecarvin Battle Axe,2.46
+37,Sondossa91,31,Masculino,171,Scalpel,3.62
+38,Chamjasknya65,20,Masculino,25,Hero Cane,1.03
+39,Lassilsa63,23,Masculino,63,Stormfury Mace,1.27
+40,Tyisur83,32,Masculino,7,"Thorn, Satchel of Dark Souls",4.51
+41,Aeral43,19,Feminino,124,Venom Claymore,2.72
+42,Lassadarsda57,24,Masculino,25,Hero Cane,1.03
+43,Alaephos75,22,Masculino,68,"Storm-Weaver, Slayer of Inception",2.49
+44,Frichjask31,22,Masculino,85,Malificent Bag,2.17
+45,Eusur90,20,Masculino,120,Agatha,1.91
+46,Palatyon26,11,Masculino,17,"Lazarus, Terror of the Earth",3.47
+47,Saellyra72,24,Masculino,141,Persuasion,3.27
+48,Ililsa62,20,Masculino,73,Ritual Mace,3.74
+49,Eosur70,22,Masculino,151,Severance,1.85
+50,Saistyphos30,32,Feminino,32,Orenmir,4.95
+51,Reula64,16,Masculino,169,"Interrogator, Blood Blade of the Queen",3.32
+52,Chanirrala39,24,Masculino,165,Bone Crushing Silver Skewer,3.37
+53,Chadanto83,22,Masculino,51,Endbringer,2.67
+54,Minduli80,25,Feminino,101,Final Critic,4.62
+55,Heunadil74,24,Masculino,140,Striker,3.82
+56,Marilsasya33,23,Masculino,31,Trickster,2.07
+57,Alallo58,24,Masculino,34,Retribution Axe,4.14
+58,Tyaeristi78,24,Feminino,65,Conqueror Adamantite Mace,1.96
+59,Ila44,15,Masculino,2,Verdict,3.4
+60,Iskossaya95,31,Masculino,86,Stormfury Lantern,1.28
+61,Rinallorap73,24,Masculino,39,"Betrayal, Whisper of Grieving Widows",2.35
+62,Aeri84,19,Feminino,39,"Betrayal, Whisper of Grieving Widows",2.35
+63,Ryanara76,23,Masculino,28,"Flux, Destroyer of Due Diligence",3.04
+64,Syally44,15,Masculino,160,Azurewrath,2.22
+65,Shaidanu32,15,Masculino,134,Undead Crusader,4.67
+66,Syasriria69,18,Masculino,13,Serenity,1.49
+67,Lisiriya82,25,Masculino,83,Lifebender,3.51
+68,Qarwen67,11,Masculino,38,"The Void, Vengeance of Dark Magic",2.82
+69,Iskosia51,15,Masculino,7,"Thorn, Satchel of Dark Souls",4.51
+70,Eosurdru76,7,Feminino,158,"Darkheart, Butcher of the Champion",3.56
+71,Lassimla92,21,Masculino,85,Malificent Bag,2.17
+72,Tauldilsa43,34,Masculino,110,Suspension,2.11
+73,Erudrion71,16,Masculino,122,Unending Tyranny,1.21
+74,Chanjaskan37,20,Masculino,54,Eternal Cleaver,3.14
+75,Sondastan54,31,Masculino,31,Trickster,2.07
+76,Strithenu87,20,Masculino,105,Hailstorm Shadowsteel Scythe,3.73
+77,Chanastsda67,15,Masculino,87,"Deluge, Edge of the West",2.2
+78,Baelollodeu94,23,Masculino,23,Crucifer,2.77
+79,Undirrala66,29,Masculino,144,Blood Infused Guardian,2.86
+80,Chanosseya79,16,Feminino,128,"Blazeguard, Reach of Eternity",4.0
+81,Yaristi64,38,Masculino,175,Woeful Adamantite Claymore,1.24
+82,Airi27,23,Masculino,46,Hopeless Ebon Dualblade,4.75
+83,Frichaststa61,25,Feminino,32,Orenmir,4.95
+84,Raysistast71,25,Masculino,7,"Thorn, Satchel of Dark Souls",4.51
+85,Ithergue48,20,Feminino,150,Deathraze,4.54
+86,Chanastst38,27,Masculino,152,Darkheart,3.15
+87,Sundosiasta28,22,Masculino,108,"Extraction, Quickblade Of Trembling Hands",3.39
+88,Undotesta33,23,Masculino,132,Persuasion,3.9
+89,Tyiaduenuru55,22,Masculino,172,Blade of the Grave,1.69
+90,Iskjaskst81,33,Masculino,91,Celeste,3.71
+91,Iskjaskan81,24,Masculino,167,"Malice, Legacy of the Queen",2.38
+92,Frichim27,24,Masculino,181,Reaper's Toll,4.56
+93,Hailaphos89,20,Masculino,20,Netherbane,1.48
+94,Seorithstilis90,23,Masculino,130,Alpha,1.56
+95,Jiskjask80,24,Masculino,111,Misery's End,2.91
+96,Yasurra52,22,Feminino,54,Eternal Cleaver,3.14
+97,Assassasta79,17,Feminino,49,"The Oculus, Token of Lost Worlds",4.23
+98,Lamyon68,25,Masculino,47,"Alpha, Reach of Ending Hope",1.55
+99,Alo67,20,Masculino,110,Suspension,2.11
+100,Farenon57,20,Masculino,103,Singed Scalpel,4.87
+101,Assistasda90,25,Masculino,30,Stormcaller,4.15
+102,Frichaya88,30,Masculino,51,Endbringer,2.67
+103,Marassanya92,27,Masculino,139,"Mercy, Katana of Dismay",4.37
+104,Iskista96,34,Masculino,173,Stormfury Longsword,4.83
+105,Mindirra92,20,Masculino,55,Vindictive Glass Edge,4.26
+106,Chadossa56,37,Feminino,174,Primitive Blade,2.46
+107,Undirrala66,29,Masculino,115,Spectral Diamond Doomblade,4.25
+108,Eoda93,22,Masculino,35,Heartless Bone Dualblade,2.63
+109,Lassast89,20,Feminino,42,The Decapitator,4.82
+110,Philodil43,20,Feminino,13,Serenity,1.49
+111,Tyirithnu40,19,Masculino,160,Azurewrath,2.22
+112,Haerith37,25,Masculino,57,"Despair, Favor of Due Diligence",3.81
+113,Jeyciman68,20,Masculino,152,Darkheart,3.15
+114,Chamirraya83,20,Masculino,130,Alpha,1.56
+115,Yasur85,23,Masculino,9,"Thorn, Conqueror of the Corrupted",2.04
+116,Koikirra25,25,Masculino,84,Arcane Gem,2.23
+117,Qarwen67,11,Masculino,160,Azurewrath,2.22
+118,Quarunarn52,23,Masculino,46,Hopeless Ebon Dualblade,4.75
+119,Yasur35,19,Masculino,180,Stormcaller,2.78
+120,Isurriarap71,31,Masculino,102,Avenger,4.16
+121,Lassjask63,7,Masculino,175,Woeful Adamantite Claymore,1.24
+122,Iliel92,18,Feminino,53,Vengeance Cleaver,3.7
+123,Arithllorin55,19,Masculino,73,Ritual Mace,3.74
+124,Silideu44,22,Masculino,18,"Torchlight, Bond of Storms",1.77
+125,Heosurnuru52,7,Feminino,10,Sleepwalker,1.73
+126,Raesty92,25,Masculino,34,Retribution Axe,4.14
+127,Eyircil84,23,Feminino,74,Yearning Crusher,1.06
+128,Isursti83,24,Masculino,140,Striker,3.82
+129,Eurinu48,23,Feminino,126,Exiled Mithril Longsword,3.25
+130,Saedaiphos46,24,Masculino,50,Dawn,2.55
+131,Undirrala66,29,Masculino,62,Piece Maker,4.36
+132,Jiskossa51,23,Masculino,125,Whistling Mithril Warblade,4.32
+133,Sundossast30,17,Feminino,108,"Extraction, Quickblade Of Trembling Hands",3.39
+134,Ialallo29,23,Masculino,152,Darkheart,3.15
+135,Syasriria69,18,Masculino,68,"Storm-Weaver, Slayer of Inception",2.49
+136,Chanosia60,16,Masculino,121,Massacre,3.42
+137,Ilosia37,13,Feminino,20,Netherbane,1.48
+138,Tyeulisu40,28,Masculino,129,"Fate, Vengeance of Eternal Justice",1.55
+139,Yaliru88,22,Masculino,91,Celeste,3.71
+140,Jiskassa76,25,Masculino,149,"Tranquility, Razor of Black Magic",2.47
+141,Idairin80,24,Masculino,12,Dawne,4.3
+142,Dyally87,17,Masculino,7,"Thorn, Satchel of Dark Souls",4.51
+143,Quarusrion32,15,Masculino,175,Woeful Adamantite Claymore,1.24
+144,Adairialis76,20,Masculino,44,Bonecarvin Battle Axe,2.46
+145,Lirtilsan89,11,Masculino,71,Demise,4.07
+146,Reolacal36,23,Masculino,71,Demise,4.07
+147,Chadanto83,22,Masculino,158,"Darkheart, Butcher of the Champion",3.56
+148,Lisirrast82,18,Masculino,14,Possessed Core,1.59
+149,Ilrian97,13,Masculino,175,Woeful Adamantite Claymore,1.24
+150,Tyadaru49,25,Masculino,58,"Freak's Bite, Favor of Holy Might",3.03
+151,Sweecossa42,20,Masculino,37,"Shadow Strike, Glory of Ending Hope",1.93
+152,Streural92,13,Masculino,17,"Lazarus, Terror of the Earth",3.47
+153,Queusurra38,23,Masculino,155,War-Forged Gold Deflector,3.73
+154,Lassilsa41,27,Feminino,39,"Betrayal, Whisper of Grieving Widows",2.35
+155,Aisurphos78,22,Masculino,105,Hailstorm Shadowsteel Scythe,3.73
+156,Marim28,17,Feminino,27,"Riddle, Tribute of Ended Dreams",3.96
+157,Taeduenu92,20,Masculino,52,Hatred,4.39
+158,Eodailis27,25,Feminino,66,Victor Iron Spikes,3.55
+159,Lassjaskan73,20,Masculino,100,Blindscythe,3.66
+160,Yadanun74,25,Masculino,112,Worldbreaker,3.29
+161,Iskossasda43,21,Masculino,24,Warped Fetish,2.41
+162,Aesty51,15,Masculino,94,Mourning Blade,1.82
+163,Tyida79,23,Masculino,158,"Darkheart, Butcher of the Champion",3.56
+164,Frichossast75,27,Masculino,107,"Splitter, Foe Of Subtlety",3.61
+165,Eratiel90,20,Masculino,106,Crying Steel Sickle,2.29
+166,Eoda93,22,Masculino,173,Stormfury Longsword,4.83
+167,Chamirra53,15,Masculino,86,Stormfury Lantern,1.28
+168,Alarap40,17,Masculino,124,Venom Claymore,2.72
+169,Ralaeriadeu65,15,Masculino,102,Avenger,4.16
+170,Reulae52,9,Masculino,71,Demise,4.07
+171,Stryanastip77,21,Masculino,84,Arcane Gem,2.23
+172,Iskirra45,21,Masculino,106,Crying Steel Sickle,2.29
+173,Chadadarya31,30,Masculino,0,Splinter,1.82
+174,Heuli25,24,Masculino,182,Toothpick,3.48
+175,Raillydeu47,35,Masculino,34,Retribution Axe,4.14
+176,Chamadar61,21,Masculino,182,Toothpick,3.48
+177,Assassa38,34,Outro / Não Divulgado,155,War-Forged Gold Deflector,3.73
+178,Shaidanu32,15,Masculino,97,"Swan Song, Gouger Of Terror",3.58
+179,Chanosiaya39,40,Masculino,70,Hope's End,3.89
+180,Raeri71,18,Feminino,89,"Blazefury, Protector of Delusions",1.5
+181,Hiasri33,24,Masculino,1,Crucifer,2.28
+182,Lisossa25,24,Masculino,130,Alpha,1.56
+183,Sundassa93,23,Feminino,87,"Deluge, Edge of the West",2.2
+184,Rina82,11,Masculino,170,Shadowsteel,1.98
+185,Siarinum43,22,Masculino,167,"Malice, Legacy of the Queen",2.38
+186,Chanosiaya39,40,Masculino,144,Blood Infused Guardian,2.86
+187,Eurallo89,20,Feminino,93,Apocalyptic Battlescythe,3.91
+188,Hirirap39,20,Masculino,78,"Glimmer, Ender of the Moon",2.33
+189,Raillydeu47,35,Masculino,179,"Wolf, Promise of the Moonwalker",1.88
+190,Frichaya88,30,Masculino,36,Spectral Bone Axe,2.98
+191,Aidaira26,20,Masculino,75,Brutality Ivory Warmace,1.72
+192,Zontibe81,20,Masculino,91,Celeste,3.71
+193,Farusrian86,19,Masculino,101,Final Critic,4.62
+194,Undadarla37,24,Masculino,39,"Betrayal, Whisper of Grieving Widows",2.35
+195,Lirtossa78,14,Masculino,160,Azurewrath,2.22
+196,Chanirra56,20,Masculino,89,"Blazefury, Protector of Delusions",1.5
+197,Lassast89,20,Feminino,65,Conqueror Adamantite Mace,1.96
+198,Lisasi93,18,Masculino,44,Bonecarvin Battle Axe,2.46
+199,Phadai31,30,Feminino,180,Stormcaller,2.78
+200,Tyithesura58,22,Masculino,143,Frenzied Scimitar,2.6
+201,Marilsa48,12,Masculino,137,"Aetherius, Boon of the Blessed",4.75
+202,Siarithria38,24,Masculino,176,Relentless Iron Skewer,2.97
+203,Lisasi93,18,Masculino,148,"Warmonger, Gift of Suffering's End",3.96
+204,Marirrasta50,19,Masculino,127,"Heartseeker, Reaver of Souls",3.21
+205,Airidil41,17,Masculino,147,"Hellreaver, Heirloom of Inception",3.59
+206,Sausosia74,25,Masculino,161,Devine,1.45
+207,Yadanun74,25,Masculino,154,Feral Katana,2.19
+208,Sialaera37,22,Feminino,13,Serenity,1.49
+209,Frichistasta59,33,Outro / Não Divulgado,157,"Spada, Etcher of Hatred",2.21
+210,Phadue96,22,Masculino,152,Darkheart,3.15
+211,Chanirra79,24,Masculino,176,Relentless Iron Skewer,2.97
+212,Yarmol79,40,Masculino,111,Misery's End,2.91
+213,Astydil38,24,Masculino,127,"Heartseeker, Reaver of Souls",3.21
+214,Jiskirran77,27,Feminino,148,"Warmonger, Gift of Suffering's End",3.96
+215,Marjasksda39,20,Feminino,154,Feral Katana,2.19
+216,Eoralphos86,13,Feminino,116,Renewed Skeletal Katana,2.37
+217,Lisovynya38,18,Masculino,106,Crying Steel Sickle,2.29
+218,Hailaphos89,20,Masculino,31,Trickster,2.07
+219,Frichim77,27,Masculino,148,"Warmonger, Gift of Suffering's End",3.96
+220,Aellyrialis39,33,Masculino,152,Darkheart,3.15
+221,Chamilsan75,24,Feminino,61,Ragnarok,3.97
+222,Saida58,24,Masculino,131,Fury,4.82
+223,Eusri70,30,Masculino,41,Orbit,1.16
+224,Aeduera68,26,Masculino,106,Crying Steel Sickle,2.29
+225,Qilatie51,20,Masculino,152,Darkheart,3.15
+226,Chamistast30,25,Feminino,92,Final Critic,1.36
+227,Qiluard68,20,Masculino,32,Orenmir,4.95
+228,Tyaelo67,24,Masculino,145,Fiery Glass Crusader,4.45
+229,Rithe77,26,Feminino,129,"Fate, Vengeance of Eternal Justice",1.55
+230,Tyeosristi57,15,Masculino,140,Striker,3.82
+231,Lassjaskan73,20,Masculino,125,Whistling Mithril Warblade,4.32
+232,Eoral49,16,Feminino,60,Wolf,1.84
+233,Aelollo59,25,Masculino,129,"Fate, Vengeance of Eternal Justice",1.55
+234,Lisossa63,24,Masculino,123,Twilight's Carver,1.14
+235,Wailin72,35,Masculino,162,Abyssal Shard,2.04
+236,Yarithllodeu72,22,Masculino,154,Feral Katana,2.19
+237,Lisistaya47,7,Masculino,121,Massacre,3.42
+238,Chamadar27,40,Feminino,49,"The Oculus, Token of Lost Worlds",4.23
+239,Ethruard50,24,Feminino,58,"Freak's Bite, Favor of Holy Might",3.03
+240,Lisossa63,24,Masculino,121,Massacre,3.42
+241,Yathecal72,32,Masculino,135,Warped Diamond Crusader,4.66
+242,Ilimya66,27,Feminino,182,Toothpick,3.48
+243,Ialistidru50,21,Masculino,157,"Spada, Etcher of Hatred",2.21
+244,Tyaerith73,21,Outro / Não Divulgado,183,Dragon's Greatsword,2.36
+245,Lisistasya93,30,Masculino,8,"Purgatory, Gem of Regret",3.91
+246,Chamadar79,20,Masculino,12,Dawne,4.3
+247,Haerith37,25,Masculino,23,Crucifer,2.77
+248,Iallyphos37,20,Masculino,40,Second Chance,2.34
+249,Tyaelo67,24,Masculino,15,Soul Infused Crystal,1.03
+250,Ilogha82,25,Masculino,115,Spectral Diamond Doomblade,4.25
+251,Aeri84,19,Feminino,115,Spectral Diamond Doomblade,4.25
+252,Ilaesudil92,22,Masculino,1,Crucifer,2.28
+253,Meosridil82,15,Masculino,149,"Tranquility, Razor of Black Magic",2.47
+254,Undirrasta89,21,Masculino,1,Crucifer,2.28
+255,Lirtistanya48,27,Masculino,121,Massacre,3.42
+256,Iadueria43,22,Masculino,17,"Lazarus, Terror of the Earth",3.47
+257,Chanirrala39,24,Masculino,154,Feral Katana,2.19
+258,Lisjaskan36,25,Feminino,97,"Swan Song, Gouger Of Terror",3.58
+259,Saedue76,25,Masculino,13,Serenity,1.49
+260,Undjasksya56,9,Masculino,99,"Expiration, Warscythe Of Lost Worlds",4.53
+261,Irithrap69,24,Masculino,46,Hopeless Ebon Dualblade,4.75
+262,Quanenrian83,21,Masculino,29,"Chaos, Ender of the End",3.79
+263,Phenastya51,18,Masculino,137,"Aetherius, Boon of the Blessed",4.75
+264,Marassaya49,45,Masculino,124,Venom Claymore,2.72
+265,Saellyra72,24,Masculino,8,"Purgatory, Gem of Regret",3.91
+266,Yasrisu92,39,Feminino,143,Frenzied Scimitar,2.6
+267,Frichistasta59,33,Outro / Não Divulgado,65,Conqueror Adamantite Mace,1.96
+268,Qilanrion65,15,Masculino,36,Spectral Bone Axe,2.98
+269,Chanassa48,37,Masculino,72,Winter's Bite,1.39
+270,Iskassa50,29,Masculino,114,Yearning Mageblade,1.79
+271,Frichjaskan98,7,Masculino,77,"Piety, Guardian of Riddles",3.68
+272,Sirira97,25,Masculino,117,"Heartstriker, Legacy of the Light",4.15
+273,Eoduenurin62,25,Masculino,13,Serenity,1.49
+274,Yarirarn35,20,Masculino,79,"Alpha, Oath of Zeal",2.88
+275,Yadanun74,25,Masculino,107,"Splitter, Foe Of Subtlety",3.61
+276,Aillycal84,12,Outro / Não Divulgado,128,"Blazeguard, Reach of Eternity",4.0
+277,Eosur70,22,Masculino,128,"Blazeguard, Reach of Eternity",4.0
+278,Chanadar44,29,Masculino,107,"Splitter, Foe Of Subtlety",3.61
+279,Lisimsda29,20,Masculino,171,Scalpel,3.62
+280,Tyidue95,23,Masculino,85,Malificent Bag,2.17
+281,Yaralnura48,40,Masculino,47,"Alpha, Reach of Ending Hope",1.55
+282,Irillo49,29,Masculino,48,"Rage, Legacy of the Lone Victor",4.32
+283,Isri59,35,Masculino,73,Ritual Mace,3.74
+284,Lisjaskan36,25,Feminino,88,"Emberling, Defender of Delusions",4.1
+285,Aiduecal76,29,Masculino,78,"Glimmer, Ender of the Moon",2.33
+286,Frichosiala98,25,Masculino,54,Eternal Cleaver,3.14
+287,Deelilsasya30,23,Masculino,170,Shadowsteel,1.98
+288,Mindilsa60,23,Masculino,99,"Expiration, Warscythe Of Lost Worlds",4.53
+289,Iladarla40,8,Masculino,79,"Alpha, Oath of Zeal",2.88
+290,Chrathybust28,25,Masculino,104,Gladiator's Glaive,1.36
+291,Yarithsurgue62,7,Masculino,53,Vengeance Cleaver,3.7
+292,Lisistaya47,7,Masculino,121,Massacre,3.42
+293,Mindossa76,21,Masculino,95,Singed Onyx Warscythe,1.03
+294,Assilsan72,20,Masculino,64,Fusion Pummel,3.58
+295,Frichosiala98,25,Masculino,135,Warped Diamond Crusader,4.66
+296,Assassa43,22,Masculino,70,Hope's End,3.89
+297,Yarolwen77,24,Masculino,84,Arcane Gem,2.23
+298,Faralcil63,26,Outro / Não Divulgado,141,Persuasion,3.27
+299,Sondilsa40,18,Masculino,119,"Stormbringer, Dark Blade of Ending Misery",2.32
+300,Lisossan98,15,Masculino,99,"Expiration, Warscythe Of Lost Worlds",4.53
+301,Chadossa89,22,Masculino,44,Bonecarvin Battle Axe,2.46
+302,Eosrirgue62,34,Masculino,183,Dragon's Greatsword,2.36
+303,Lassilsa41,27,Feminino,31,Trickster,2.07
+304,Sondastan54,31,Masculino,173,Stormfury Longsword,4.83
+305,Filrion44,22,Masculino,98,"Deadline, Voice Of Subtlety",3.62
+306,Lassassasda30,15,Masculino,102,Avenger,4.16
+307,Aidain51,26,Masculino,180,Stormcaller,2.78
+308,Aduephos78,37,Masculino,79,"Alpha, Oath of Zeal",2.88
+309,Hainaria90,21,Masculino,108,"Extraction, Quickblade Of Trembling Hands",3.39
+310,Eusri70,30,Masculino,131,Fury,4.82
+311,Raerithsti62,18,Masculino,115,Spectral Diamond Doomblade,4.25
+312,Aerithllora36,29,Masculino,68,"Storm-Weaver, Slayer of Inception",2.49
+313,Reuthelis39,20,Feminino,33,Curved Axe,1.35
+314,Sundaststa26,22,Feminino,145,Fiery Glass Crusader,4.45
+315,Aelin32,24,Masculino,54,Eternal Cleaver,3.14
+316,Sundadarla27,20,Masculino,12,Dawne,4.3
+317,Aeliru63,22,Masculino,173,Stormfury Longsword,4.83
+318,Mindilsa60,23,Masculino,60,Wolf,1.84
+319,Lisista27,42,Masculino,110,Suspension,2.11
+320,Narirra38,23,Feminino,76,Haunted Bronzed Bludgeon,4.12
+321,Eustyria89,18,Masculino,137,"Aetherius, Boon of the Blessed",4.75
+322,Phistym51,22,Masculino,29,"Chaos, Ender of the End",3.79
+323,Salilis27,23,Feminino,130,Alpha,1.56
+324,Layjask75,27,Masculino,102,Avenger,4.16
+325,Tyaeristi78,24,Feminino,47,"Alpha, Reach of Ending Hope",1.55
+326,Lirtyrdesta65,19,Masculino,60,Wolf,1.84
+327,Syalollorap93,20,Masculino,7,"Thorn, Satchel of Dark Souls",4.51
+328,Assylla81,22,Masculino,125,Whistling Mithril Warblade,4.32
+329,Eurisuru25,27,Outro / Não Divulgado,61,Ragnarok,3.97
+330,Narirra38,23,Feminino,12,Dawne,4.3
+331,Mindjasksya61,20,Masculino,70,Hope's End,3.89
+332,Eusri44,21,Masculino,50,Dawn,2.55
+333,Aeliru63,22,Masculino,30,Stormcaller,4.15
+334,Rarith48,20,Masculino,15,Soul Infused Crystal,1.03
+335,Yalaeria91,16,Masculino,179,"Wolf, Promise of the Moonwalker",1.88
+336,Iskadarya95,15,Masculino,173,Stormfury Longsword,4.83
+337,Saedue76,25,Masculino,140,Striker,3.82
+338,Lisossanya98,17,Masculino,84,Arcane Gem,2.23
+339,Iarithdil76,20,Masculino,57,"Despair, Favor of Due Diligence",3.81
+340,Chanosia60,16,Masculino,169,"Interrogator, Blood Blade of the Queen",3.32
+341,Aeliriarin93,20,Masculino,9,"Thorn, Conqueror of the Corrupted",2.04
+342,Raedalis34,15,Feminino,50,Dawn,2.55
+343,Meosridil82,15,Masculino,33,Curved Axe,1.35
+344,Sondossa55,12,Masculino,66,Victor Iron Spikes,3.55
+345,Iadueria43,22,Masculino,15,Soul Infused Crystal,1.03
+346,Lisico81,17,Masculino,14,Possessed Core,1.59
+347,Ialo60,24,Masculino,146,Warped Iron Scimitar,4.08
+348,Syathe73,22,Masculino,177,"Winterthorn, Defender of Shifting Worlds",4.89
+349,Lisassa26,33,Masculino,166,Thirsty Iron Reaver,4.25
+350,Rasrirgue43,21,Masculino,93,Apocalyptic Battlescythe,3.91
+351,Aerillorin70,25,Masculino,179,"Wolf, Promise of the Moonwalker",1.88
+352,Quelatarn54,22,Masculino,56,Foul Titanium Battle Axe,4.33
+353,Airithrin43,31,Feminino,22,Amnesia,3.57
+354,Mindirra92,20,Masculino,84,Arcane Gem,2.23
+355,Lisjasksda68,26,Feminino,85,Malificent Bag,2.17
+356,Aerithnuphos61,25,Masculino,172,Blade of the Grave,1.69
+357,Sundast29,40,Masculino,65,Conqueror Adamantite Mace,1.96
+358,Lirtosia72,14,Masculino,87,"Deluge, Edge of the West",2.2
+359,Aeliriam77,20,Masculino,32,Orenmir,4.95
+360,Lisirra55,7,Feminino,21,Souleater,3.27
+361,Aeral97,14,Masculino,39,"Betrayal, Whisper of Grieving Widows",2.35
+362,Lisosiast26,36,Masculino,39,"Betrayal, Whisper of Grieving Widows",2.35
+363,Yathecal72,32,Masculino,16,Restored Bauble,3.11
+364,Lirtistasta79,23,Masculino,31,Trickster,2.07
+365,Lisadar44,31,Masculino,67,"Celeste, Incarnation of the Corrupted",2.31
+366,Jiskossa51,23,Masculino,133,Faith's Scimitar,3.82
+367,Qilatie51,20,Masculino,100,Blindscythe,3.66
+368,Eusri70,30,Masculino,153,Mercenary Sabre,4.57
+369,Isurria36,18,Feminino,118,"Ghost Reaver, Longsword of Magic",2.77
+370,Sundastnya66,7,Masculino,151,Severance,1.85
+371,Raesursurap33,20,Masculino,81,Dreamkiss,4.06
+372,Sondassasya91,23,Masculino,94,Mourning Blade,1.82
+373,Ermol76,23,Masculino,114,Yearning Mageblade,1.79
+374,Eosurdru76,7,Feminino,77,"Piety, Guardian of Riddles",3.68
+375,Yadaisuir65,22,Masculino,42,The Decapitator,4.82
+376,Zhisrisu83,17,Masculino,33,Curved Axe,1.35
+377,Aduephos78,37,Masculino,174,Primitive Blade,2.46
+378,Sondassa68,30,Masculino,69,"Frenzy, Defender of the Harvest",1.06
+379,Chamirraya83,20,Masculino,141,Persuasion,3.27
+380,Alaephos75,22,Masculino,34,Retribution Axe,4.14
+381,Haellysu29,21,Masculino,166,Thirsty Iron Reaver,4.25
+382,Yarithphos28,25,Masculino,39,"Betrayal, Whisper of Grieving Widows",2.35
+383,Ingatcil75,7,Masculino,66,Victor Iron Spikes,3.55
+384,Eothe56,30,Masculino,143,Frenzied Scimitar,2.6
+385,Haerith37,25,Masculino,158,"Darkheart, Butcher of the Champion",3.56
+386,Assithasta65,23,Masculino,107,"Splitter, Foe Of Subtlety",3.61
+387,Ethruard50,24,Feminino,51,Endbringer,2.67
+388,Palurrian69,15,Masculino,32,Orenmir,4.95
+389,Iskistasda86,37,Masculino,34,Retribution Axe,4.14
+390,Tyaili86,17,Feminino,86,Stormfury Lantern,1.28
+391,Liawista80,32,Masculino,141,Persuasion,3.27
+392,Seosri62,35,Masculino,159,"Oathbreaker, Spellblade of Trials",3.01
+393,Silinu63,9,Masculino,16,Restored Bauble,3.11
+394,Aela49,25,Masculino,44,Bonecarvin Battle Axe,2.46
+395,Assosiasta83,20,Masculino,38,"The Void, Vengeance of Dark Magic",2.82
+396,Saelollop56,40,Feminino,77,"Piety, Guardian of Riddles",3.68
+397,Saena74,35,Feminino,108,"Extraction, Quickblade Of Trembling Hands",3.39
+398,Tyaelistidru84,25,Feminino,96,Blood-Forged Skeletal Spine,4.77
+399,Chamirrasya33,20,Masculino,82,Nirvana,1.11
+400,Smecherdi88,15,Masculino,27,"Riddle, Tribute of Ended Dreams",3.96
+401,Leulaesti78,17,Masculino,121,Massacre,3.42
+402,Tyaenasti87,8,Masculino,65,Conqueror Adamantite Mace,1.96
+403,Sondassa48,22,Masculino,113,Solitude's Reaver,2.67
+404,Deural48,11,Feminino,46,Hopeless Ebon Dualblade,4.75
+405,Saistydru69,22,Masculino,76,Haunted Bronzed Bludgeon,4.12
+406,Chamosia29,24,Masculino,39,"Betrayal, Whisper of Grieving Widows",2.35
+407,Saisrilis27,21,Masculino,108,"Extraction, Quickblade Of Trembling Hands",3.39
+408,Indonmol95,15,Masculino,106,Crying Steel Sickle,2.29
+409,Fironon91,20,Feminino,45,Glinting Glass Edge,2.46
+410,Ryanara76,23,Masculino,27,"Riddle, Tribute of Ended Dreams",3.96
+411,Saedue76,25,Masculino,7,"Thorn, Satchel of Dark Souls",4.51
+412,Lirtossanya27,24,Feminino,114,Yearning Mageblade,1.79
+413,Sondadar26,24,Masculino,34,Retribution Axe,4.14
+414,Phalinun47,15,Masculino,10,Sleepwalker,1.73
+415,Chamistast30,25,Feminino,92,Final Critic,1.36
+416,Hiarideu73,25,Masculino,84,Arcane Gem,2.23
+417,Qilunan34,16,Masculino,119,"Stormbringer, Dark Blade of Ending Misery",2.32
+418,Pharithdil38,21,Masculino,66,Victor Iron Spikes,3.55
+419,Tyeuladeu30,25,Feminino,42,The Decapitator,4.82
+420,Sondastan54,31,Masculino,170,Shadowsteel,1.98
+421,Ina92,22,Masculino,150,Deathraze,4.54
+422,Saida58,24,Masculino,164,Exiled Doomblade,1.92
+423,Aithelis62,32,Outro / Não Divulgado,29,"Chaos, Ender of the End",3.79
+424,Indcil77,40,Masculino,139,"Mercy, Katana of Dismay",4.37
+425,Hallysucal81,20,Masculino,14,Possessed Core,1.59
+426,Tyeuduephos81,15,Masculino,152,Darkheart,3.15
+427,Heosrisuir72,19,Masculino,131,Fury,4.82
+428,Chadossa56,37,Feminino,175,Woeful Adamantite Claymore,1.24
+429,Hailaphos89,20,Masculino,82,Nirvana,1.11
+430,Lirtassa47,27,Masculino,74,Yearning Crusher,1.06
+431,Aduephos78,37,Masculino,92,Final Critic,1.36
+432,Sondilsa40,18,Masculino,20,Netherbane,1.48
+433,Ithesuphos68,23,Masculino,180,Stormcaller,2.78
+434,Eula35,25,Masculino,98,"Deadline, Voice Of Subtlety",3.62
+435,Aina42,27,Feminino,159,"Oathbreaker, Spellblade of Trials",3.01
+436,Ethrusuard41,10,Masculino,131,Fury,4.82
+437,Zhisrisu83,17,Masculino,82,Nirvana,1.11
+438,Isursti83,24,Masculino,111,Misery's End,2.91
+439,Chanirrasta87,19,Masculino,41,Orbit,1.16
+440,Stryanastip77,21,Masculino,84,Arcane Gem,2.23
+441,Ilirrasda54,22,Masculino,107,"Splitter, Foe Of Subtlety",3.61
+442,Liri91,7,Masculino,34,Retribution Axe,4.14
+443,Undadar97,25,Masculino,8,"Purgatory, Gem of Regret",3.91
+444,Ithergue48,20,Feminino,179,"Wolf, Promise of the Moonwalker",1.88
+445,Saistyphos30,32,Feminino,95,Singed Onyx Warscythe,1.03
+446,Lisosianya62,22,Masculino,47,"Alpha, Reach of Ending Hope",1.55
+447,Tyaelistidru84,25,Feminino,6,Rusty Skull,1.2
+448,Sausosia74,25,Masculino,34,Retribution Axe,4.14
+449,Frichosiala98,25,Masculino,123,Twilight's Carver,1.14
+450,Mindimnya67,39,Feminino,140,Striker,3.82
+451,Undistasta86,12,Masculino,163,Thunderfury Scimitar,3.02
+452,Lirtistasta79,23,Masculino,172,Blade of the Grave,1.69
+453,Alaesu91,18,Feminino,95,Singed Onyx Warscythe,1.03
+454,Jiskosiala43,9,Feminino,100,Blindscythe,3.66
+455,Heuralsti66,30,Masculino,137,"Aetherius, Boon of the Blessed",4.75
+456,Umuard36,23,Feminino,66,Victor Iron Spikes,3.55
+457,Asur53,29,Masculino,68,"Storm-Weaver, Slayer of Inception",2.49
+458,Jiskassa76,25,Masculino,92,Final Critic,1.36
+459,Thryallym62,20,Masculino,124,Venom Claymore,2.72
+460,Raesty92,25,Masculino,5,Putrid Fan,1.32
+461,Frichassala85,21,Masculino,69,"Frenzy, Defender of the Harvest",1.06
+462,Chamilsan75,24,Feminino,90,Betrayer,1.67
+463,Ilosu82,33,Masculino,38,"The Void, Vengeance of Dark Magic",2.82
+464,Mindimnya67,39,Feminino,163,Thunderfury Scimitar,3.02
+465,Pheodai94,23,Masculino,20,Netherbane,1.48
+466,Raerithsti62,18,Masculino,11,Brimstone,2.52
+467,Undirrasta74,22,Masculino,41,Orbit,1.16
+468,Hiasur92,25,Feminino,103,Singed Scalpel,4.87
+469,Tillyrin30,20,Masculino,19,"Pursuit, Cudgel of Necromancy",3.98
+470,Riralsti91,24,Masculino,134,Undead Crusader,4.67
+471,Iasur80,24,Masculino,103,Singed Scalpel,4.87
+472,Eryon48,15,Feminino,110,Suspension,2.11
+473,Whaestysu86,22,Masculino,146,Warped Iron Scimitar,4.08
+474,Aiduesu83,29,Feminino,35,Heartless Bone Dualblade,2.63
+475,Iaralsuir44,22,Masculino,105,Hailstorm Shadowsteel Scythe,3.73
+476,Chanjask65,36,Masculino,31,Trickster,2.07
+477,Frichistast39,25,Masculino,158,"Darkheart, Butcher of the Champion",3.56
+478,Yaralnura48,40,Masculino,168,"Sun Strike, Jaws of Twisted Visions",2.64
+479,Isursti83,24,Masculino,48,"Rage, Legacy of the Lone Victor",4.32
+480,Phairinum94,17,Masculino,128,"Blazeguard, Reach of Eternity",4.0
+481,Ethralan59,27,Masculino,151,Severance,1.85
+482,Raelly43,25,Masculino,165,Bone Crushing Silver Skewer,3.37
+483,Lisassasta50,33,Feminino,22,Amnesia,3.57
+484,Chanastnya43,25,Feminino,104,Gladiator's Glaive,1.36
+485,Sondimla25,23,Masculino,85,Malificent Bag,2.17
+486,Chamilsala65,24,Masculino,136,Ghastly Adamantite Protector,3.3
+487,Idaria87,30,Masculino,103,Singed Scalpel,4.87
+488,Eoda93,22,Masculino,76,Haunted Bronzed Bludgeon,4.12
+489,Chanastst38,27,Masculino,21,Souleater,3.27
+490,Lamil79,23,Masculino,40,Second Chance,2.34
+491,Liri91,7,Masculino,161,Devine,1.45
+492,Qaronon57,17,Masculino,22,Amnesia,3.57
+493,Chadjask77,36,Masculino,57,"Despair, Favor of Due Diligence",3.81
+494,Ethralista69,20,Masculino,52,Hatred,4.39
+495,Phaeduesurgue38,23,Masculino,49,"The Oculus, Token of Lost Worlds",4.23
+496,Rathellorin54,25,Feminino,95,Singed Onyx Warscythe,1.03
+497,Filon68,38,Masculino,40,Second Chance,2.34
+498,Chamilsala65,24,Masculino,160,Azurewrath,2.22
+499,Assylla81,22,Masculino,1,Crucifer,2.28
+500,Ingonon91,21,Masculino,79,"Alpha, Oath of Zeal",2.88
+501,Lisovynya38,18,Masculino,144,Blood Infused Guardian,2.86
+502,Assesi91,25,Masculino,10,Sleepwalker,1.73
+503,Aellyria80,25,Masculino,125,Whistling Mithril Warblade,4.32
+504,Aethedru70,25,Masculino,176,Relentless Iron Skewer,2.97
+505,Iladarla40,8,Masculino,15,Soul Infused Crystal,1.03
+506,Tyalaesu89,29,Masculino,180,Stormcaller,2.78
+507,Erudrion71,16,Masculino,161,Devine,1.45
+508,Tyisriphos58,38,Masculino,181,Reaper's Toll,4.56
+509,Iskista88,28,Masculino,92,Final Critic,1.36
+510,Seudaillorap38,21,Masculino,133,Faith's Scimitar,3.82
+511,Sondossa55,12,Masculino,70,Hope's End,3.89
+512,Tyirithnu40,19,Masculino,108,"Extraction, Quickblade Of Trembling Hands",3.39
+513,Malista67,13,Masculino,159,"Oathbreaker, Spellblade of Trials",3.01
+514,Ristydru66,33,Masculino,120,Agatha,1.91
+515,Yasriphos60,40,Masculino,11,Brimstone,2.52
+516,Phainasu47,20,Masculino,111,Misery's End,2.91
+517,Eural50,22,Masculino,81,Dreamkiss,4.06
+518,Mindassast27,22,Masculino,31,Trickster,2.07
+519,Iskossan49,24,Masculino,62,Piece Maker,4.36
+520,Qarrian82,30,Masculino,145,Fiery Glass Crusader,4.45
+521,Eulidru49,16,Feminino,170,Shadowsteel,1.98
+522,Inguard95,38,Masculino,148,"Warmonger, Gift of Suffering's End",3.96
+523,Hiral75,20,Masculino,161,Devine,1.45
+524,Undast38,16,Masculino,162,Abyssal Shard,2.04
+525,Chadjask77,36,Masculino,182,Toothpick,3.48
+526,Marim28,17,Feminino,143,Frenzied Scimitar,2.6
+527,Yasriphos60,40,Masculino,55,Vindictive Glass Edge,4.26
+528,Ialistidru50,21,Masculino,22,Amnesia,3.57
+529,Aelalis34,38,Masculino,172,Blade of the Grave,1.69
+530,Airal46,35,Masculino,113,Solitude's Reaver,2.67
+531,Lirtosia72,14,Masculino,80,Dreamsong,3.81
+532,Assassasta79,17,Feminino,177,"Winterthorn, Defender of Shifting Worlds",4.89
+533,Saerallora71,21,Masculino,183,Dragon's Greatsword,2.36
+534,Frichossast86,24,Masculino,98,"Deadline, Voice Of Subtlety",3.62
+535,Undirra73,23,Feminino,30,Stormcaller,4.15
+536,Chanastsda67,15,Masculino,145,Fiery Glass Crusader,4.45
+537,Undirrala66,29,Masculino,18,"Torchlight, Bond of Storms",1.77
+538,Lirtosia72,14,Masculino,183,Dragon's Greatsword,2.36
+539,Phaestycal84,31,Masculino,171,Scalpel,3.62
+540,Malunil62,19,Masculino,153,Mercenary Sabre,4.57
+541,Eosursurap97,20,Masculino,84,Arcane Gem,2.23
+542,Iaralrgue74,15,Masculino,153,Mercenary Sabre,4.57
+543,Seolollo93,15,Masculino,8,"Purgatory, Gem of Regret",3.91
+544,Ililsan66,18,Masculino,15,Soul Infused Crystal,1.03
+545,Yasriphos60,40,Masculino,171,Scalpel,3.62
+546,Iskosia51,15,Masculino,154,Feral Katana,2.19
+547,Isurria36,18,Feminino,171,Scalpel,3.62
+548,Asur53,29,Masculino,129,"Fate, Vengeance of Eternal Justice",1.55
+549,Aesur96,34,Masculino,135,Warped Diamond Crusader,4.66
+550,Iskosian40,23,Masculino,108,"Extraction, Quickblade Of Trembling Hands",3.39
+551,Ililsa62,20,Masculino,100,Blindscythe,3.66
+552,Aillyriadru65,23,Masculino,60,Wolf,1.84
+553,Lisassa49,24,Feminino,110,Suspension,2.11
+554,Lisistaya47,7,Masculino,39,"Betrayal, Whisper of Grieving Widows",2.35
+555,Ialidru40,19,Masculino,175,Woeful Adamantite Claymore,1.24
+556,Sondim43,20,Masculino,35,Heartless Bone Dualblade,2.63
+557,Iskimnya76,24,Masculino,30,Stormcaller,4.15
+558,Aethe80,22,Masculino,119,"Stormbringer, Dark Blade of Ending Misery",2.32
+559,Rathellorin54,25,Feminino,65,Conqueror Adamantite Mace,1.96
+560,Chanadar44,29,Masculino,64,Fusion Pummel,3.58
+561,Eudasu82,33,Masculino,83,Lifebender,3.51
+562,Lisirraya76,19,Masculino,88,"Emberling, Defender of Delusions",4.1
+563,Lisossa25,24,Masculino,26,Unholy Wand,1.88
+564,Haedasu65,20,Masculino,133,Faith's Scimitar,3.82
+565,Iral74,24,Masculino,97,"Swan Song, Gouger Of Terror",3.58
+566,Lisjaskya84,20,Masculino,16,Restored Bauble,3.11
+567,Saelaephos52,20,Masculino,181,Reaper's Toll,4.56
+568,Chamim85,22,Masculino,76,Haunted Bronzed Bludgeon,4.12
+569,Chamadar61,21,Masculino,154,Feral Katana,2.19
+570,Lirtista72,23,Masculino,142,Righteous Might,4.36
+571,Seudanu38,17,Masculino,113,Solitude's Reaver,2.67
+572,Lisossa63,24,Masculino,92,Final Critic,1.36
+573,Siathecal92,22,Masculino,36,Spectral Bone Axe,2.98
+574,Eullydru35,7,Masculino,39,"Betrayal, Whisper of Grieving Widows",2.35
+575,Chamistast30,25,Feminino,18,"Torchlight, Bond of Storms",1.77
+576,Isrirgue68,24,Masculino,142,Righteous Might,4.36
+577,Eurallo89,20,Feminino,172,Blade of the Grave,1.69
+578,Raithe71,25,Masculino,107,"Splitter, Foe Of Subtlety",3.61
+579,Iskossaya95,31,Masculino,151,Severance,1.85
+580,Yathecal82,23,Masculino,178,"Oathbreaker, Last Hope of the Breaking Storm",2.41
+581,Filrion44,22,Masculino,68,"Storm-Weaver, Slayer of Inception",2.49
+582,Saralp86,9,Masculino,26,Unholy Wand,1.88
+583,Tyeuduen32,22,Masculino,13,Serenity,1.49
+584,Aina43,21,Feminino,174,Primitive Blade,2.46
+585,Undiwinya88,15,Masculino,23,Crucifer,2.77
+586,Silaera56,29,Masculino,75,Brutality Ivory Warmace,1.72
+587,Iskadarya95,15,Masculino,27,"Riddle, Tribute of Ended Dreams",3.96
+588,Eoralphos86,13,Feminino,26,Unholy Wand,1.88
+589,Billysu76,27,Masculino,144,Blood Infused Guardian,2.86
+590,Seorithstilis90,23,Masculino,152,Darkheart,3.15
+591,Aidaira48,30,Masculino,10,Sleepwalker,1.73
+592,Mindimnya67,39,Feminino,145,Fiery Glass Crusader,4.45
+593,Euna48,22,Outro / Não Divulgado,115,Spectral Diamond Doomblade,4.25
+594,Lisassasta50,33,Feminino,163,Thunderfury Scimitar,3.02
+595,Eusur90,20,Masculino,30,Stormcaller,4.15
+596,Undirrala66,29,Masculino,133,Faith's Scimitar,3.82
+597,Lamil70,16,Masculino,13,Serenity,1.49
+598,Chamadarnya73,21,Masculino,12,Dawne,4.3
+599,Ilast79,20,Feminino,6,Rusty Skull,1.2
+600,Sondilsa35,22,Masculino,97,"Swan Song, Gouger Of Terror",3.58
+601,Ralonurin90,26,Masculino,148,"Warmonger, Gift of Suffering's End",3.96
+602,Marundi65,24,Feminino,71,Demise,4.07
+603,Phaedan76,20,Masculino,60,Wolf,1.84
+604,Farenon57,20,Masculino,18,"Torchlight, Bond of Storms",1.77
+605,Ilassa51,20,Masculino,157,"Spada, Etcher of Hatred",2.21
+606,Lirtossa84,20,Masculino,101,Final Critic,4.62
+607,Airi27,23,Masculino,38,"The Void, Vengeance of Dark Magic",2.82
+608,Indcil77,40,Masculino,102,Avenger,4.16
+609,Chamastya76,20,Masculino,53,Vengeance Cleaver,3.7
+610,Lassjask63,7,Masculino,158,"Darkheart, Butcher of the Champion",3.56
+611,Heolo60,22,Masculino,175,Woeful Adamantite Claymore,1.24
+612,Isurria36,18,Feminino,101,Final Critic,4.62
+613,Lisossan98,15,Masculino,153,Mercenary Sabre,4.57
+614,Sondim43,20,Masculino,19,"Pursuit, Cudgel of Necromancy",3.98
+615,Mindirra92,20,Masculino,11,Brimstone,2.52
+616,Reuthelis39,20,Feminino,11,Brimstone,2.52
+617,Thourdirra92,18,Masculino,166,Thirsty Iron Reaver,4.25
+618,Frichadar89,25,Masculino,49,"The Oculus, Token of Lost Worlds",4.23
+619,Raesursurap33,20,Masculino,123,Twilight's Carver,1.14
+620,Jiskilsa35,20,Feminino,80,Dreamsong,3.81
+621,Philistirap41,33,Masculino,172,Blade of the Grave,1.69
+622,Tyidainu31,20,Masculino,144,Blood Infused Guardian,2.86
+623,Mindimnya67,39,Feminino,161,Devine,1.45
+624,Tridaira71,37,Feminino,95,Singed Onyx Warscythe,1.03
+625,Queusurra38,23,Masculino,90,Betrayer,1.67
+626,Mindadaran26,20,Masculino,124,Venom Claymore,2.72
+627,Lisassa39,23,Masculino,130,Alpha,1.56
+628,Alaesu77,32,Masculino,78,"Glimmer, Ender of the Moon",2.33
+629,Ilogha82,25,Masculino,142,Righteous Might,4.36
+630,Pharithdil38,21,Masculino,178,"Oathbreaker, Last Hope of the Breaking Storm",2.41
+631,Mindossasya74,26,Masculino,85,Malificent Bag,2.17
+632,Syadaillo88,16,Masculino,22,Amnesia,3.57
+633,Lassilsala30,15,Masculino,127,"Heartseeker, Reaver of Souls",3.21
+634,Eusri26,23,Masculino,111,Misery's End,2.91
+635,Chanastsda67,15,Masculino,67,"Celeste, Incarnation of the Corrupted",2.31
+636,Hilaerin92,31,Masculino,40,Second Chance,2.34
+637,Aeliriam77,20,Masculino,18,"Torchlight, Bond of Storms",1.77
+638,Lirtossan50,35,Masculino,83,Lifebender,3.51
+639,Iskossan49,24,Masculino,94,Mourning Blade,1.82
+640,Sondim73,16,Masculino,22,Amnesia,3.57
+641,Assosia38,16,Masculino,37,"Shadow Strike, Glory of Ending Hope",1.93
+642,Reula64,16,Masculino,115,Spectral Diamond Doomblade,4.25
+643,Tyeosri53,31,Masculino,182,Toothpick,3.48
+644,Raesurdil91,43,Masculino,57,"Despair, Favor of Due Diligence",3.81
+645,Anallorgue57,20,Feminino,103,Singed Scalpel,4.87
+646,Idai61,21,Masculino,78,"Glimmer, Ender of the Moon",2.33
+647,Aeduera68,26,Masculino,156,Soul-Forged Steel Shortsword,1.16
+648,Rithe53,23,Masculino,92,Final Critic,1.36
+649,Quinarap53,21,Masculino,44,Bonecarvin Battle Axe,2.46
+650,Haerithp41,24,Masculino,109,"Downfall, Scalpel Of The Emperor",3.2
+651,Seuthelis34,30,Feminino,79,"Alpha, Oath of Zeal",2.88
+652,Styaduen40,21,Feminino,8,"Purgatory, Gem of Regret",3.91
+653,Ennoncil86,32,Masculino,120,Agatha,1.91
+654,Lassassasda30,15,Masculino,120,Agatha,1.91
+655,Tyeosri53,31,Masculino,10,Sleepwalker,1.73
+656,Ilaststa70,10,Feminino,63,Stormfury Mace,1.27
+657,Tyarithn67,28,Masculino,32,Orenmir,4.95
+658,Streural92,13,Masculino,14,Possessed Core,1.59
+659,Haellysu29,21,Masculino,91,Celeste,3.71
+660,Yadaisuir65,22,Masculino,73,Ritual Mace,3.74
+661,Aerithnucal56,15,Masculino,172,Blade of the Grave,1.69
+662,Sundjask71,15,Masculino,77,"Piety, Guardian of Riddles",3.68
+663,Tyisriphos58,38,Masculino,101,Final Critic,4.62
+664,Sundaststa26,22,Feminino,33,Curved Axe,1.35
+665,Yalo71,23,Masculino,24,Warped Fetish,2.41
+666,Mindetosya30,16,Masculino,67,"Celeste, Incarnation of the Corrupted",2.31
+667,Chanjaskan89,23,Masculino,15,Soul Infused Crystal,1.03
+668,Chadjask77,36,Masculino,124,Venom Claymore,2.72
+669,Lirtast83,32,Masculino,66,Victor Iron Spikes,3.55
+670,Ingatcil75,7,Masculino,177,"Winterthorn, Defender of Shifting Worlds",4.89
+671,Lassassast73,24,Masculino,61,Ragnarok,3.97
+672,Strairisti57,18,Masculino,157,"Spada, Etcher of Hatred",2.21
+673,Qarwen67,11,Masculino,176,Relentless Iron Skewer,2.97
+674,Filrion59,35,Masculino,31,Trickster,2.07
+675,Sondim43,20,Masculino,118,"Ghost Reaver, Longsword of Magic",2.77
+676,Aellysup38,25,Masculino,107,"Splitter, Foe Of Subtlety",3.61
+677,Hala31,38,Masculino,75,Brutality Ivory Warmace,1.72
+678,Rithe77,26,Feminino,65,Conqueror Adamantite Mace,1.96
+679,Marirrasta50,19,Masculino,159,"Oathbreaker, Spellblade of Trials",3.01
+680,Chanosiast43,13,Feminino,18,"Torchlight, Bond of Storms",1.77
+681,Sundim98,20,Feminino,100,Blindscythe,3.66
+682,Frichaya88,30,Masculino,83,Lifebender,3.51
+683,Lirtassa47,27,Masculino,25,Hero Cane,1.03
+684,Iathenudil29,29,Feminino,130,Alpha,1.56
+685,Lisirra55,7,Feminino,11,Brimstone,2.52
+686,Yarolwen77,24,Masculino,46,Hopeless Ebon Dualblade,4.75
+687,Crausirra42,15,Feminino,112,Worldbreaker,3.29
+688,Frichast72,23,Masculino,87,"Deluge, Edge of the West",2.2
+689,Eulidru49,16,Feminino,33,Curved Axe,1.35
+690,Aidain51,26,Masculino,81,Dreamkiss,4.06
+691,Sida61,24,Masculino,40,Second Chance,2.34
+692,Chamjasknya65,20,Masculino,23,Crucifer,2.77
+693,Iri67,15,Masculino,128,"Blazeguard, Reach of Eternity",4.0
+694,Ririp86,20,Feminino,91,Celeste,3.71
+695,Chadossa56,37,Feminino,117,"Heartstriker, Legacy of the Light",4.15
+696,Chanjaskan89,23,Masculino,26,Unholy Wand,1.88
+697,Jiskimsda56,21,Masculino,93,Apocalyptic Battlescythe,3.91
+698,Assistast50,19,Masculino,66,Victor Iron Spikes,3.55
+699,Euliria52,16,Masculino,162,Abyssal Shard,2.04
+700,Aerithriaphos45,16,Masculino,43,Foul Edge,2.38
+701,Ila44,15,Masculino,170,Shadowsteel,1.98
+702,Sida61,24,Masculino,128,"Blazeguard, Reach of Eternity",4.0
+703,Phyali88,38,Masculino,106,Crying Steel Sickle,2.29
+704,Iskossa88,30,Masculino,72,Winter's Bite,1.39
+705,Aeral85,25,Masculino,115,Spectral Diamond Doomblade,4.25
+706,Rinallorap73,24,Masculino,61,Ragnarok,3.97
+707,Chanjask65,36,Masculino,5,Putrid Fan,1.32
+708,Saedue76,25,Masculino,73,Ritual Mace,3.74
+709,Assassa38,34,Outro / Não Divulgado,179,"Wolf, Promise of the Moonwalker",1.88
+710,Tyaelorgue39,27,Feminino,67,"Celeste, Incarnation of the Corrupted",2.31
+711,Tyananurgue44,22,Masculino,84,Arcane Gem,2.23
+712,Isketo41,13,Masculino,5,Putrid Fan,1.32
+713,Sundast87,21,Masculino,159,"Oathbreaker, Spellblade of Trials",3.01
+714,Yadacal26,24,Masculino,37,"Shadow Strike, Glory of Ending Hope",1.93
+715,Ila44,15,Masculino,174,Primitive Blade,2.46
+716,Ilophos58,9,Masculino,103,Singed Scalpel,4.87
+717,Marilsanya48,21,Masculino,102,Avenger,4.16
+718,Phially37,22,Feminino,79,"Alpha, Oath of Zeal",2.88
+719,Iduedru67,25,Masculino,169,"Interrogator, Blood Blade of the Queen",3.32
+720,Yarithsurgue62,7,Masculino,82,Nirvana,1.11
+721,Aeduera68,26,Masculino,39,"Betrayal, Whisper of Grieving Widows",2.35
+722,Saidairiaphos61,29,Masculino,18,"Torchlight, Bond of Storms",1.77
+723,Tillyrin30,20,Masculino,69,"Frenzy, Defender of the Harvest",1.06
+724,Chanosiast43,13,Feminino,117,"Heartstriker, Legacy of the Light",4.15
+725,Quarusrion32,15,Masculino,14,Possessed Core,1.59
+726,Chamimla73,18,Masculino,21,Souleater,3.27
+727,Eurith26,25,Masculino,139,"Mercy, Katana of Dismay",4.37
+728,Tyananurgue44,22,Masculino,48,"Rage, Legacy of the Lone Victor",4.32
+729,Iskichinya81,16,Masculino,134,Undead Crusader,4.67
+730,Hiadanurin36,10,Feminino,148,"Warmonger, Gift of Suffering's End",3.96
+731,Tyaelly53,20,Feminino,106,Crying Steel Sickle,2.29
+732,Shidai42,23,Feminino,37,"Shadow Strike, Glory of Ending Hope",1.93
+733,Bartassaya73,16,Masculino,8,"Purgatory, Gem of Regret",3.91
+734,Mindosiasya28,13,Masculino,175,Woeful Adamantite Claymore,1.24
+735,Ethrusuard41,10,Masculino,16,Restored Bauble,3.11
+736,Indirrian56,19,Masculino,45,Glinting Glass Edge,2.46
+737,Sondim68,22,Masculino,101,Final Critic,4.62
+738,Tyadaru49,25,Masculino,56,Foul Titanium Battle Axe,4.33
+739,Cosadar58,35,Feminino,93,Apocalyptic Battlescythe,3.91
+740,Farusrian86,19,Masculino,154,Feral Katana,2.19
+741,Leyirra83,24,Masculino,145,Fiery Glass Crusader,4.45
+742,Inguron55,26,Masculino,84,Arcane Gem,2.23
+743,Haedasu65,20,Masculino,134,Undead Crusader,4.67
+744,Ialistidru50,21,Masculino,130,Alpha,1.56
+745,Sweecossa42,20,Masculino,79,"Alpha, Oath of Zeal",2.88
+746,Ralasti48,35,Masculino,34,Retribution Axe,4.14
+747,Lamon28,32,Masculino,52,Hatred,4.39
+748,Isri49,15,Masculino,120,Agatha,1.91
+749,Frichassala85,21,Masculino,114,Yearning Mageblade,1.79
+750,Eollym91,23,Masculino,86,Stormfury Lantern,1.28
+751,Lisjasksda68,26,Feminino,179,"Wolf, Promise of the Moonwalker",1.88
+752,Yalostiphos68,15,Feminino,116,Renewed Skeletal Katana,2.37
+753,Thryallym62,20,Masculino,4,Bloodlord's Fetish,2.28
+754,Sondastan54,31,Masculino,104,Gladiator's Glaive,1.36
+755,Ailaesuir66,22,Feminino,179,"Wolf, Promise of the Moonwalker",1.88
+756,Siasri67,22,Masculino,6,Rusty Skull,1.2
+757,Seosri62,35,Masculino,11,Brimstone,2.52
+758,Ryastycal90,20,Masculino,122,Unending Tyranny,1.21
+759,Chanirrasta87,19,Masculino,87,"Deluge, Edge of the West",2.2
+760,Aerithllora36,29,Masculino,81,Dreamkiss,4.06
+761,Raeduerin33,28,Masculino,175,Woeful Adamantite Claymore,1.24
+762,Lisosiast26,36,Masculino,52,Hatred,4.39
+763,Eurisuru25,27,Outro / Não Divulgado,48,"Rage, Legacy of the Lone Victor",4.32
+764,Assassasda84,25,Masculino,70,Hope's End,3.89
+765,Aerithnucal56,15,Masculino,13,Serenity,1.49
+766,Nitherian58,22,Feminino,84,Arcane Gem,2.23
+767,Hailaphos89,20,Masculino,122,Unending Tyranny,1.21
+768,Chamucosda93,21,Masculino,158,"Darkheart, Butcher of the Champion",3.56
+769,Frichilsasya78,24,Masculino,73,Ritual Mace,3.74
+770,Aenasu69,22,Masculino,141,Persuasion,3.27
+771,Lassista97,24,Masculino,25,Hero Cane,1.03
+772,Sidap51,15,Masculino,31,Trickster,2.07
+773,Chamadarsda63,21,Masculino,44,Bonecarvin Battle Axe,2.46
+774,Lassassast73,24,Masculino,123,Twilight's Carver,1.14
+775,Eural50,22,Masculino,98,"Deadline, Voice Of Subtlety",3.62
+776,Lirtossa78,14,Masculino,104,Gladiator's Glaive,1.36
+777,Tillyrin30,20,Masculino,117,"Heartstriker, Legacy of the Light",4.15
+778,Quelaton80,20,Masculino,75,Brutality Ivory Warmace,1.72
+779,Alim85,23,Feminino,107,"Splitter, Foe Of Subtlety",3.61
